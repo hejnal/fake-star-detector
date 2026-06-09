@@ -1,8 +1,8 @@
 {
-  "name": "my-dataform-project",
-  "version": "1.0.0",
-  "description": "My Dataform transformation project",
   "dependencies": {
-    "@dataform/core": "^3.0.0"
+    "@dataform/core": "^3.0.56",
+    "@dataform/compat-for-dbt": "^0.2.12",
+    "@dataform/compat-for-dbt-adapters": "^1.17.3",
+    "@dataform/compat-for-dbt-bigquery": "^1.10.2"
   }
 }
