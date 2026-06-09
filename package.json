@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "@dataform/compat-for-dbt": "^0.2.12",
-    "@dataform/compat-for-dbt-adapters": "^1.17.3",
-    "@dataform/compat-for-dbt-bigquery": "^1.10.2",
+    "@dataform/compat-for-dbt": "file:./packages/dataform-compat-for-dbt-0.2.12.tgz",
+    "@dataform/compat-for-dbt-adapters": "file:./packages/dataform-compat-for-dbt-adapters-1.17.3.tgz",
+    "@dataform/compat-for-dbt-bigquery": "file:./packages/dataform-compat-for-dbt-bigquery-1.10.2.tgz",
     "@dataform/core": "^3.0.56"
   }
 }
