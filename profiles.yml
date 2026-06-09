@@ -1,0 +1,9 @@
+dbt-demo-project:
+  outputs:
+    dev:
+      dataset: dataform
+      project: wh-dbt-bq-pipelines-sandbox01
+      location: us-central1
+      method: oauth
+      type: bigquery
+  target: dev
