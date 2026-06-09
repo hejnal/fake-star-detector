@@ -1,0 +1,8 @@
+{
+  "name": "my-dataform-project",
+  "version": "1.0.0",
+  "description": "My Dataform transformation project",
+  "dependencies": {
+    "@dataform/core": "^3.0.0"
+  }
+}
